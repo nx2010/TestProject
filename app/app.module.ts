@@ -39,4 +39,14 @@ import { DashboardComponent } from './dashboard.component';
 })
 
 
-export class AppModule {}
+export class AppModule {
+
+  testfunction():void {
+
+    var test;
+
+    return test;
+
+  }
+
+}
