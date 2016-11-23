@@ -44,6 +44,7 @@ export class AppModule {
   testfunction() {
 
     var test;
+    var secondTest = 2
 
     return test;
 
