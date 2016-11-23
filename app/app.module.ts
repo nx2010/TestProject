@@ -43,8 +43,13 @@ export class AppModule {
 
   testfunction():number {
 
+<<<<<<< HEAD
     var test: number = 1;
     var secondTest: number = 2
+=======
+    var test;
+    var secondTest = 2
+>>>>>>> b8f246ad2e3320c3c8fe27ffef51085b92825d11
 
     return test + secondTest;
 
