@@ -41,7 +41,7 @@ import { DashboardComponent } from './dashboard.component';
 
 export class AppModule {
 
-  testfunction():void {
+  testfunction() {
 
     var test;
 
