@@ -41,12 +41,12 @@ import { DashboardComponent } from './dashboard.component';
 
 export class AppModule {
 
-  testfunction() {
+  testfunction():number {
 
-    var test;
-    var secondTest = 2
+    var test: number = 1;
+    var secondTest: number = 2
 
-    return test;
+    return test + secondTest;
 
   }
 
